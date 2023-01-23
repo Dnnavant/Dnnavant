@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Donnie Avant
+
+- 🔭 I’m currently working on bettering myself in the Tech Industry with the help of DCI.
+- 🌱 I’m currently learning to be a Web Developer.
+
+
 <!--
 **Dnnavant/Dnnavant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
