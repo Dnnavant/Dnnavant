@@ -6,7 +6,7 @@ My name is Donnie Avant
 
 - 🌱 I’m currently learning to be a Web Developer.
 
-- [:computer:](https://www.linkedin.com/in/donnie-r-avant/)
+- :computer: [Linkedin](https://www.linkedin.com/in/donnie-r-avant/)
 
 
 
