@@ -8,7 +8,7 @@ My name is Donnie Avant
 
 - :computer: [Linkedin](https://www.linkedin.com/in/donnie-r-avant/)
 
-
+#### Thank you !!
 
 <!--
 **Dnnavant/Dnnavant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
