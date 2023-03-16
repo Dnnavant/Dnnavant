@@ -2,9 +2,9 @@
 
 My name is Donnie Avant
 
-- 🔭 I’m currently working on bettering myself in the Tech Industry with the help of DCI.
+- 🔭 I’m currently working on bettering myself in the World of Tech with the help of DCI (Digital Career Institute.
 
-- 🌱 I’m currently learning to be a Web Developer.
+- 🌱 I’m currently learning to be a Full Stack Web Developer.
 
 - :computer: [Linkedin](https://www.linkedin.com/in/donnie-r-avant/)
 
