@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Donnie Avant
+My name is Donnie,
 
 - 🔭 I’m currently working on bettering myself in the World of Tech with the help of DCI (Digital Career Institute.
 
