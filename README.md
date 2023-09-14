@@ -7,9 +7,9 @@ In doing so, I’d leverage my previous skills and experiences in effective comm
 problem-solving, adaptability, time management, and professionalism to contribute to a developer role. 
 My enrollment in web development courses at DCI demonstrates my commitment to this career change and skill enhancement.
 
-- 🔭 I’m currently working on bettering myself in the World of Tech with the help of DCI (Digital Career Institute.
+- 🔭 I’m currently working on bettering myself in the World of Tech with the help of DCI (Digital Career Institute).
 
-- 🌱 I’m currently learning to be a Full Stack Web Developer.
+- 🌱 I’m currently in search of an internship to solidify and enhance my skills learned from DCI (Digital Career Institute) to be a Full Stack Web Developer.
 
 - :computer: [Linkedin](https://www.linkedin.com/in/donnie-r-avant/)
 
