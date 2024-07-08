@@ -1,6 +1,6 @@
-### WELCOME!!! 👋
+👋👋 ### WELCOME!!! 👋👋
 
-My name is Donnie,
+Hello my name is Donnie,
 
 With a diverse background in sales, sports, car wrapping, and marketing, I bring strong communication, collaboration, problem-solving, and time management skills to web development. My recent full-stack certification from DCI allows me to leverage these transferable skills and pursue a focused career path in web development. Confident in my abilities, I'm eager to succeed in this exciting field.
 
