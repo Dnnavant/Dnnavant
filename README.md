@@ -4,7 +4,7 @@ Hello my name is Donnie,
 
 With a diverse background in sales, sports, car wrapping, and marketing, I bring strong communication, collaboration, problem-solving, and time management skills to web development. My recent full-stack certification from DCI allows me to leverage these transferable skills and pursue a focused career path in web development. Confident in my abilities, I'm eager to succeed in this exciting field.
 
-- 🔭 I’m currently working on bettering myself in the World of Tech with the help of DCI (Digital Career Institute).
+- 🔭 I’m working on personal projects to better my skills and challenge my creativity in the tech world with the help of old colleges and friends.
 
 - 🌱 I’m currently in search of a jr Web Development role to further enhance my skills learned from DCI (Digital Career Institute) to be a well-rounded developer.
 
